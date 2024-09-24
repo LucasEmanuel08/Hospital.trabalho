@@ -1,0 +1,7 @@
+C:\Users\Tecnico\source\repos\working\working\bin\Debug\working.exe.config
+C:\Users\Tecnico\source\repos\working\working\bin\Debug\working.exe
+C:\Users\Tecnico\source\repos\working\working\bin\Debug\working.pdb
+C:\Users\Tecnico\source\repos\working\working\obj\Debug\working.csproj.AssemblyReference.cache
+C:\Users\Tecnico\source\repos\working\working\obj\Debug\working.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\working\working\obj\Debug\working.exe
+C:\Users\Tecnico\source\repos\working\working\obj\Debug\working.pdb
